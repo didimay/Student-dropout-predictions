@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+xgboost
+shap
+interpret
+matplotlib
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-dotenv
+jupyter
